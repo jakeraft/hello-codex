@@ -1,1 +1,3 @@
-model = "gpt-5-codex"
+# Intentionally minimal — model selector left to codex defaults so the
+# tutorial works on any account/plan. Override per-user in
+# ~/.codex/config.toml if you want a specific model.
